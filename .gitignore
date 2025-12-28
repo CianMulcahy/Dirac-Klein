@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+*.o
+*.out
+
+# Simulation data
+data/
+*.csv
+
+# Temporary plotting files
+_tmp_*.png
+*.pyc
